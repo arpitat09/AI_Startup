@@ -1,5 +1,6 @@
 
 import { useState } from "react";
+const API_URL = import.meta.env.VITE_API_URL;
 
 function App() {
   const [activeTab, setActiveTab] = useState("market");
@@ -78,7 +79,18 @@ function App() {
         </div>
 
         <button
-          onClick={() => setReportGenerated(true)}
+          onClick={async () => {
+            try {
+              const response = await fetch(`${API_URL}/api/generate`);
+              const data = await response.json();
+              console.log(data);
+
+              setReportGenerated(true);
+            } catch (err) {
+              console.error(err);
+              alert("Backend not connected");
+           }
+        }}
           style={{
             background: "#2563eb",
             color: "white",
