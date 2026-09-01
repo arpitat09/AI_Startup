@@ -1,41 +1,109 @@
-# AI Co-Founder — Next-Generation Startup Intelligence Engine
+# AI Co-Founder — Next-Generation Startup Intelligence & Validation Engine
 
 <div align="center">
 
-![AI Co-Founder Banner](https://img.shields.io/badge/AI--Co--Founder-v2.0.0-E76F3C?style=for-the-badge&logo=rocket)
+![AI Co-Founder Banner](https://img.shields.io/badge/AI--Co--Founder-v2.0.0-E76F3C?style=for-the-badge&logo=rocket&logoColor=white)
+[![Live Frontend](https://img.shields.io/badge/Live_App-Vercel-black?style=for-the-badge&logo=vercel)](https://ai-startup-frontend-one.vercel.app/)
+[![Live Backend](https://img.shields.io/badge/Live_API-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://ai-startup-backend-vduo.onrender.com)
+
 [![React](https://img.shields.io/badge/React-19.0-61DAFB?style=flat-square&logo=react)](https://react.dev)
 [![Vite](https://img.shields.io/badge/Vite-6.0-646CFF?style=flat-square&logo=vite)](https://vitejs.dev)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-v4.0-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-v4.0-E76F3C?style=flat-square&logo=tailwindcss)](https://tailwindcss.com)
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?style=flat-square&logo=node.js)](https://nodejs.org)
-[![Express](https://img.shields.io/badge/Express-4.21-000000?style=flat-square&logo=express)](https://expressjs.com)
-[![Deterministic Engine](https://img.shields.io/badge/Scoring-Deterministic_Math-10B981?style=flat-square&logo=google-cloud)](https://github.com/arpitat09/AI_Startup)
+[![Express](https://img.shields.io/badge/Express-5.0-000000?style=flat-square&logo=express)](https://expressjs.com)
+[![Scoring Engine](https://img.shields.io/badge/Scoring-Deterministic_Math-65A77A?style=flat-square&logo=google-cloud)](https://github.com/arpitat09/AI_Startup)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 **Turn one startup idea into an investor-grade validation, market intelligence report, financial model, and tactical execution playbook in seconds.**
 
-[Live Demo](#-interactive-demo-mode) • [Architecture](#-system-architecture) • [Scoring Engine](#-deterministic-7-factor-scoring-engine) • [API Docs](#-api-reference) • [Quickstart](#-quickstart--installation)
+[🚀 Launch Live Application](https://ai-startup-frontend-one.vercel.app/) • [⚡ Live API Health](https://ai-startup-backend-vduo.onrender.com/health) • [🏗 Architecture](#-system-architecture) • [🧮 Scoring Formula](#-deterministic-7-factor-viability-scoring) • [💻 Local Setup](#-quickstart--installation)
 
 </div>
 
 ---
 
-## 🌟 Overview
+<div align="center">
+  <img src="docs/images/hero.png" alt="AI Co-Founder Landing Hero" width="100%" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);" />
+</div>
 
-**AI Co-Founder** is an enterprise-grade AI intelligence platform designed for founders, venture analysts, and product builders. Rather than relying on simple unstructured LLM chat, AI Co-Founder coordinates **multi-agent research pipelines** combined with **deterministic mathematical algorithms** to deliver rigorous startup viability assessments.
+---
 
-### Key Capabilities
+## 🌟 Executive Overview
 
-- 🎯 **Grounded Market Sizing (TAM / SAM / SOM)** with methodology explanations, geography filtering, and confidence metrics.
-- 🥊 **2x2 Competitor Positioning Matrix** with threat tiers, strengths, weaknesses, and defensibility moats.
-- 🧭 **Customer Personas & JTBD (Jobs-To-Be-Done)** with acute pain points, buying triggers, and friction mapping.
-- 📊 **Osterwalder 9-Box Business Model Canvas** & Tiered SaaS Monetization Architecture.
-- 🧮 **Interactive Real-Time Financial Modeler** computing MRR, ARR, LTV, CAC, LTV/CAC ratios, payback periods, and 12-month projections.
-- ⚖️ **Deterministic 7-Factor Startup Viability Score (0–100)** with zero LLM hallucination on final aggregate scores.
-- 🛡️ **7-Dimension Risk Heatmap & Mitigation Matrix** (Market, Execution, Tech, Financial, Regulatory, Retention, Team).
-- 📅 **MVP Feature Planner (MoSCoW)** and **30 / 60 / 90 Day Tactical Execution Roadmap**.
-- 💼 **12-Slide Investor Pitch Deck** with pitch narrative, metrics, and presenter speaker notes.
-- 🤖 **Context-Aware AI Co-Founder Chat** for real-time strategic advisory and objection handling.
-- 💾 **Local & Backend Project Persistence** with Instant PDF and Markdown Export.
+**AI Co-Founder** is a production-grade startup intelligence and strategic validation platform designed for founders, angel investors, and product architects. 
+
+Most AI tools generate generic, hallucinated advice with zero quantitative grounding. AI Co-Founder solves this by coordinating **multi-agent research pipelines** combined with a **deterministic mathematical scoring engine** and **real-time financial modeling** to produce structured, investor-ready startup dossiers.
+
+### 🎯 Key Value Propositions
+- ⏱️ **From Idea to Complete Strategy in < 10 Seconds** (TAM/SAM/SOM, 2x2 Competitor Map, SWOT, ICP Personas, 12-Slide Pitch Deck).
+- 🧮 **Deterministic Viability Scoring (0–100)** computed via weighted mathematical algorithms — eliminate subjective AI hallucinations.
+- 💼 **Interactive 12-Month Financial Engine** with live recalculation of MRR, ARR, CAC payback, LTV/CAC ratios, and runway burn.
+- 🎨 **Executive Charcoal + Burnt Orange Design System** engineered for clarity, high contrast, and focus.
+
+---
+
+## 📸 Product Walkthrough & Key Features
+
+### 1. Executive Intelligence & Viability Score (0–100)
+<div align="center">
+  <img src="docs/images/dashboard.png" alt="Executive Summary & Viability Score" width="100%" style="border-radius: 12px; margin-bottom: 16px;" />
+</div>
+
+- **AI Co-Founder Verdict**: Strategic Go/No-Go build recommendation with required milestone conditions.
+- **Problem & Solution Wedge**: Identifies acute founder wedges and value moats against legacy incumbents.
+- **7-Factor Score Ring**: Animated score ring visualizing startup viability with granular subscore breakdown.
+
+---
+
+### 2. Multi-Parameter Startup Input Terminal
+<div align="center">
+  <img src="docs/images/input-terminal.png" alt="Startup Input Terminal" width="100%" style="border-radius: 12px; margin-bottom: 16px;" />
+</div>
+
+- **Custom Parameter Inputs**: Industry, target customer segment, geography (North America, Europe, APAC, Global), stage, and budget constraints.
+- **1-Click Idea Templates**: Instant presets for B2B SaaS, HealthTech compliance, ClimateTech carbon ledgers, and AI voice agents.
+
+---
+
+### 3. Context-Aware AI Co-Founder Strategic Chat
+<div align="center">
+  <img src="docs/images/ai-chat.png" alt="AI Co-Founder Chat Advisor" width="100%" style="border-radius: 12px; margin-bottom: 16px;" />
+</div>
+
+- **Real-Time Strategic Advisory**: Grounded in your specific startup's generated intelligence report.
+- **Challenge Mode**: Actively pressure-tests assumptions, finds blindspots, and optimizes customer acquisition strategies.
+- **Quick Prompts**: 1-click strategic inquiries for pricing, CAC reduction, MVP scoping, and competitor defenses.
+
+---
+
+### 4. Saved Projects & Portfolio History
+<div align="center">
+  <img src="docs/images/projects.png" alt="Recent Projects Management" width="100%" style="border-radius: 12px; margin-bottom: 16px;" />
+</div>
+
+- **Local & Backend Persistence**: Seamlessly save, review, and switch between multiple startup analyses.
+- **1-Click Export**: Download complete 12-slide pitch decks or full strategic reports as formatted Markdown (`.md`) or PDF.
+
+---
+
+## ⚡ Core Feature Modules
+
+```
+├── 📊 Executive Summary           → AI Verdict, Strategic Wedge, Core Problem/Solution
+├── 📈 Market Intelligence         → Grounded TAM / SAM / SOM Sizing, CAGR, Market Drivers
+├── 🥊 Competitor Matrix           → 2x2 Positioning Map, Competitor Strengths & Vulnerabilities
+├── 🧭 Customer Personas & JTBD    → Acute Pain Points, Buying Triggers, Friction Stages
+├── 🛡️ SWOT Analysis               → 4-Quadrant Strategic Breakdown with Actionable Takeaways
+├── 🏛️ Business Model Canvas       → Osterwalder 9 Building Blocks & Cost/Revenue Structures
+├── 💎 Pricing Tiers               → 3-Tier SaaS Monetization Architecture & Target Segmenting
+├── 🧮 Interactive Financials      → Real-time sliders for MRR, ARR, LTV/CAC, Payback, Runway
+├── 🚀 MVP Feature Scope (MoSCoW)  → Must-Have, Should-Have, Nice-To-Have & 30-Day Sprint Plan
+├── ⚙️ Tech Architecture           → Recommended Stacks, Cloud Infrastructure, Cost Estimates
+├── 📣 Go-To-Market Playbook       → First 10 Customers Guide & 0-to-100 Scaled Channel Mix
+├── ⚠️ 7-Dimension Risk Matrix     → Heatmap (Market, Tech, Regulatory, Team) with Mitigations
+├── 📅 30/60/90 Day Roadmap        → Interactive Milestone Checklist with Task Progress
+└── 💼 12-Slide Pitch Deck         → Investor Narrative, Traction Metrics & Speaker Notes
+```
 
 ---
 
@@ -43,249 +111,179 @@
 
 ```mermaid
 graph TD
-    A[User / Frontend Client<br/>React 19 + Tailwind v4 + Vite] -->|POST /api/analyze| B[Express API Gateway]
+    A[Frontend Client<br/>React 19 + Vite + Tailwind v4] -->|POST /api/analyze| B[Express 5 API Gateway]
+    A -->|POST /api/chat| B
     
-    subgraph Backend Server [Node.js / Express Core]
+    subgraph Backend Core [Node.js / Express Architecture]
         B --> C[Rate Limiter & Input Validator]
-        C --> D[Analysis Orchestrator<br/>Promise.allSettled Multi-Pipeline]
+        C --> D[Analysis Orchestrator<br/>Parallel Multi-Pipeline]
         
-        subgraph Multi-Agent LLM Service
-            D --> E1[Executive & Opportunity Analyst]
-            D --> E2[Market Research & Sizing Agent]
+        subgraph Multi-Agent Research Services
+            D --> E1[Executive & Opportunity Agent]
+            D --> E2[Market Sizing Agent - TAM/SAM/SOM]
             D --> E3[Competitor & Positioning Agent]
             D --> E4[Customer Persona & JTBD Agent]
             D --> E5[SWOT & Strategy Agent]
             D --> E6[Business Model & Pricing Agent]
             D --> E7[Tech Stack & Architecture Agent]
-            D --> E8[Risk & Heatmap Engine]
-            D --> E9[30/60/90 Execution Roadmap Agent]
-            D --> E10[12-Slide Pitch Deck Generator]
+            D --> E8[Risk Heatmap Engine]
         end
-        
-        E1 & E2 & E3 & E4 & E5 & E6 & E7 & E8 & E9 & E10 --> F[Robust JSON Repair & Parser Engine]
         
         subgraph Deterministic Engines
-            F --> G[7-Factor Weighted Scoring Engine]
-            F --> H[Financial & Unit Economics Calculator]
+            D --> F1[Viability Scoring Engine<br/>7-Factor Weighted Algorithm]
+            D --> F2[Financial Modeling Engine<br/>LTV, CAC, Runway, Payback]
         end
         
-        G & H --> I[Data Persistence Engine<br/>projects.json + In-Memory Store]
+        E1 & E2 & E3 & E4 & E5 & E6 & E7 & E8 & F1 & F2 --> G[Structured JSON Response<br/>Validated Schema]
     end
     
-    I -->|Consolidated Intelligence JSON| A
-    
-    subgraph Multi-Provider AI Fallback
-        LLMProvider[LLM Layer]
-        LLMProvider -->|1. Primary| Groq[Groq LLaMA-3.3-70B]
-        LLMProvider -->|2. Secondary| Gemini[Google Gemini 1.5 Flash]
-        LLMProvider -->|3. Offline Fallback| Offline[Contextual Synthesis Engine]
-    end
+    G --> A
 ```
 
 ---
 
-## 🧠 Deterministic 7-Factor Scoring Engine
+## 🧮 Deterministic 7-Factor Viability Scoring
 
-To prevent generative models from hallucinating arbitrary scores, **AI Co-Founder decouples structured factor evaluation from aggregate score calculation**. The AI evaluates 7 fundamental criteria on a 0–100 scale, and our deterministic mathematical engine calculates the final score and assigns the viability tier:
+Unlike standard LLM chatbots that make up arbitrary numbers, AI Co-Founder uses a **deterministic mathematical scoring engine**:
 
-$$\text{Viability Score} = \sum_{i=1}^{7} (W_i \times S_i)$$
+$$\text{Overall Score} = \sum_{i=1}^{7} (S_i \times W_i)$$
 
-| Factor | Weight ($W_i$) | Description |
-| :--- | :---: | :--- |
-| **Market Potential** | `20%` | Total addressable spend, CAGR, structural tailwinds, and macro trends. |
-| **Problem Strength** | `15%` | Severity of customer pain, frequency of occurrence, and willingness to pay. |
-| **Competition Advantage** | `15%` | Defensibility against incumbents, feature moats, and ease of replication. |
-| **Business Model Viability**| `15%` | Unit economics, gross margins, recurring revenue feasibility, and CAC payback. |
-| **Differentiation Factor** | `15%` | 10x value wedge, positioning uniqueness, and asymmetric distribution advantage. |
-| **Execution Feasibility** | `10%` | Technical complexity, time-to-MVP, required infrastructure, and resource barriers. |
-| **Risk Resilience** | `10%` | Severity score across regulatory, technological, retention, and market risks. |
-
-### Viability Tiers
-
-- 🟢 **90 – 100:** *Exceptional Opportunity* — Outstanding fundamentals, acute market pain, and strong moat.
-- 🔵 **75 – 89:** *Strong Opportunity* — High viability with clear execution path; address minor unit economic risks.
-- 🟡 **60 – 74:** *Promising (Needs Refinement)* — Viable core concept but requires positioning tightening or CAC reduction.
-- 🟠 **40 – 59:** *Needs Significant Validation* — High friction or intense competition; validate willingness-to-pay first.
-- 🔴 **0 – 39:** *High Risk (Pivoting Recommended)* — Extreme headwinds, low moat, or prohibitive acquisition costs.
-
----
-
-## 🧮 Financial & Unit Economics Engine
-
-The interactive Financial Modeler uses deterministic client-side and server-side formulas:
-
-- **Monthly Recurring Revenue (MRR):** $\text{Customers} \times \text{Average Revenue Per User (ARPU)}$
-- **Annual Recurring Revenue (ARR):** $\text{MRR} \times 12$
-- **Customer Lifetime Value (LTV):** $\frac{\text{ARPU} \times \text{Gross Margin \%}}{\text{Monthly Churn \%}}$
-- **LTV to CAC Ratio:** $\frac{\text{LTV}}{\text{CAC}}$ *(Target: $\ge 3.0\times$)*
-- **CAC Payback Period:** $\frac{\text{CAC}}{\text{ARPU} \times \text{Gross Margin \%}}$ *(Target: $< 12\text{ months}$)*
-- **Break-Even Customer Threshold:** $\frac{\text{Monthly Fixed Burn}}{\text{ARPU} \times \text{Gross Margin \%}}$
-- **Runway (Months):** $\frac{\text{Cash Reserves}}{\max(1, \text{Monthly Burn} - \text{Gross Profit})}$
-
----
-
-## 🚀 Quickstart & Installation
-
-### Prerequisites
-
-- **Node.js**: v18.0.0 or higher
-- **npm**: v9.0.0 or higher
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/arpitat09/AI_Startup.git
-cd AI_Startup
-```
-
-### 2. Backend Setup
-
-```bash
-cd backend
-npm install
-cp .env.example .env
-```
-
-Configure your `.env` file with optional AI API keys (Groq or Gemini):
-
-```env
-PORT=3001
-AI_PROVIDER=groq
-GROQ_API_KEY=your_groq_api_key_here
-GEMINI_API_KEY=your_gemini_api_key_here
-```
-
-> **Note:** If no API keys are provided, the backend seamlessly activates its **Contextual Offline Synthesis Engine**, ensuring 100% functionality without crashes or 500 errors.
-
-Start the backend:
-```bash
-npm start
-# or for hot-reloading development:
-npm run dev
-```
-
-Run backend unit test suite:
-```bash
-npm test
-```
-
-### 3. Frontend Setup
-
-In a new terminal window:
-
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
-Open [http://localhost:5173](http://localhost:5173) in your browser to experience the platform.
-
----
-
-## 🎮 Interactive Demo Mode
-
-Want to explore the platform without typing an idea or configuring keys? Click **"Explore Interactive Demo"** on the home screen or navbar.
-
-The demo mode loads a full analysis for:
-> **"AI-Powered Preventive Maintenance Platform for Small & Mid-Sized Manufacturing"**
-
----
-
-## 📡 API Reference
-
-### Health Check
-```http
-GET /health
-```
-**Response:**
-```json
-{
-  "status": "healthy",
-  "version": "2.0.0",
-  "uptime": 142.5,
-  "timestamp": "2026-09-01T22:00:00.000Z",
-  "aiProvider": "groq",
-  "hasGroqKey": true,
-  "hasGeminiKey": false
-}
-```
-
-### Run Startup Analysis
-```http
-POST /api/analyze
-Content-Type: application/json
-```
-**Request Body:**
-```json
-{
-  "idea": "AI-powered automated HIPAA & FDA compliance auditor for digital health apps...",
-  "industry": "HealthTech",
-  "targetCustomer": "Digital health startups and clinics",
-  "geography": "US",
-  "stage": "Pre-MVP",
-  "budget": "$10k - $50k",
-  "goal": "Validate market demand & build MVP"
-}
-```
-
-### AI Co-Founder Chat
-```http
-POST /api/chat
-Content-Type: application/json
-```
-**Request Body:**
-```json
-{
-  "message": "What is our strongest moat against incumbents?",
-  "startupIdea": "AI preventive maintenance platform...",
-  "context": {
-    "startupName": "PredictiPulse AI",
-    "industry": "Industrial AI"
-  }
-}
-```
-
-### Project Management
-- `GET /api/projects` — List all saved startup reports
-- `GET /api/projects/:id` — Fetch specific report by ID
-- `DELETE /api/projects/:id` — Delete saved report
+| Factor ($i$) | Weight ($W_i$) | Evaluation Criteria |
+|---|:---:|---|
+| **Market Potential** | `20%` | Addressable market size, growth velocity (CAGR), and tailwinds. |
+| **Problem Strength** | `15%` | Severity of customer pain, frequency, and willingness to pay. |
+| **Competitive Advantage**| `15%` | Defensibility, moats, switching costs, and uniqueness against incumbents. |
+| **Business Model Viability** | `15%` | Margin profile, recurring revenue predictability, and expansion revenue. |
+| **Differentiation Factor** | `15%` | Proprietary workflows, specialized AI models, or unique distribution wedges. |
+| **Execution Feasibility** | `10%` | Technical complexity, time-to-MVP, and initial capital requirements. |
+| **Risk Resilience** | `10%` | Regulatory exposure, platform dependency, and churn vulnerability. |
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Frontend
-- **Framework:** React 19 + Vite 6
-- **Styling:** Tailwind CSS v4 + Custom Glassmorphism Theme System
-- **State Management:** React Context (`ProjectContext`, `ThemeContext`)
-- **Icons:** Lucide React
-- **Exporting:** jsPDF, Markdown synthesis utilities
+- **Framework**: React 19 (Hooks, Context API, Suspense)
+- **Bundler & Tooling**: Vite 6.0
+- **Styling**: Tailwind CSS v4 + PostCSS with Custom Charcoal + Burnt Orange Design Tokens
+- **Icons**: Lucide React
+- **Hosting**: Vercel (Global Edge Network)
 
 ### Backend
-- **Runtime:** Node.js + Express
-- **Security:** Rate limiting (`express-rate-limit`), CORS, input sanitization
-- **AI Integrations:** Groq SDK (`llama-3.3-70b-versatile`), Google Generative AI (`gemini-1.5-flash`)
-- **Math Engines:** Deterministic scoring, compound growth financial calculator
-- **Persistence:** Local JSON document store + in-memory index
+- **Runtime**: Node.js (v18+)
+- **Web Framework**: Express 5.0 (ES Modules)
+- **Security & Protection**: Express Rate Limiting, CORS, Input Sanitation
+- **AI / LLM Orchestration**: Google Gemini 1.5 Flash (`@google/generative-ai`), Groq Cloud LLaMA 3.3 (`groq-sdk`), and Contextual Offline Intelligence Engine
+- **Hosting**: Render (Cloud Web Service)
 
 ---
 
-## 🧪 Testing & Code Quality
+## 💻 Quickstart & Installation
 
+### 1. Clone the Repository
 ```bash
-# Run backend unit tests (Scoring, Financials, JSON Parser)
-npm test --prefix backend
+git clone https://github.com/arpitat09/AI_Startup.git
+cd AI_Startup
+```
 
-# Run frontend ESLint
-npm run lint --prefix frontend
+### 2. Backend Setup
+```bash
+cd backend
+npm install
 
-# Build frontend production bundle
-npm run build --prefix frontend
+# Copy example environment variables
+cp .env.example .env
+
+# (Optional) Add your free Gemini or Groq API Key to .env
+# GEMINI_API_KEY=AIzaSy...
+
+# Start backend server (runs on http://localhost:3001)
+npm run dev
+```
+
+### 3. Frontend Setup
+```bash
+# In a new terminal window
+cd frontend
+npm install
+
+# Copy example environment variables
+cp .env.example .env
+
+# Start frontend development server (runs on http://localhost:5173)
+npm run dev
 ```
 
 ---
 
-## 📄 License
+## 🧪 Testing Suite
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+Run backend test suite verifying the viability scoring algorithm, financial calculations, and JSON parsing pipelines:
+
+```bash
+npm test --prefix backend
+```
+
+Run frontend code quality linting:
+
+```bash
+npm run lint --prefix frontend
+```
+
+---
+
+## 📡 API Reference
+
+### `POST /api/analyze`
+Generates full startup intelligence report across all 13 modules.
+
+**Request Body:**
+```json
+{
+  "idea": "AI-powered predictive maintenance for manufacturing plants.",
+  "industry": "Manufacturing",
+  "targetCustomer": "Plant Operations Directors",
+  "geography": "North America & Europe",
+  "stage": "Pre-MVP",
+  "budget": "$25k - $50k"
+}
+```
+
+**Response:**
+```json
+{
+  "success": true,
+  "data": {
+    "meta": { "startupName": "PulseMach AI", "industry": "Manufacturing" },
+    "score": { "overallScore": 84, "tier": "Strong Opportunity" },
+    "executive": { ... },
+    "market": { "tam": "$42.5B", "sam": "$8.2B", "som": "$450M" },
+    "competitors": { ... },
+    "financials": { ... },
+    "pitch": { ... }
+  }
+}
+```
+
+### `GET /health`
+Returns live service status and uptime:
+```json
+{
+  "status": "ok",
+  "service": "AI Co-Founder API",
+  "version": "2.0.0",
+  "uptime": 1420
+}
+```
+
+---
+
+## 📜 License
+
+This project is open-source and licensed under the [MIT License](LICENSE).
+
+---
+
+<div align="center">
+  <sub>Built with precision by <strong>Arpita</strong> • Designed for Founders & Innovators Worldwide</sub>
+</div>
