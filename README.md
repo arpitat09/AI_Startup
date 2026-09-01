@@ -1,4 +1,4 @@
-                                  # AI Co-Founder — Next-Generation Startup Intelligence & Validation Engine
+# AI Co-Founder — Next-Generation Startup Intelligence & Validation Engine
 
 <div align="center">
 
